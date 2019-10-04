@@ -3,20 +3,13 @@ body {
   font-size: 10px;
 }
 
-.container {
-
-}
-
 .container > h1 {
+  font-size: 1.5em;
   text-align: center;
   text-transform: uppercase;
   font-family: sans-serif;
   margin: 25px 0;
   letter-spacing: 1px;
-}
-
-.emphasis {
-
 }
 
 .preview {
