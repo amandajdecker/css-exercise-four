@@ -2,3 +2,51 @@ body {
   background-color: #dadada;
   font-size: 10px;
 }
+
+.container {
+
+}
+
+.container > h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  margin: 25px 0;
+  letter-spacing: 1px;
+}
+
+.emphasis {
+
+}
+
+.preview {
+
+}
+
+.preview h1 {
+
+}
+
+.baku {
+
+}
+
+.london {
+
+}
+
+.madrid {
+
+}
+
+.rome {
+
+}
+
+@media screen and (min-width: 575px){
+
+}
+
+@media screen and (min-width: 991px){
+
+}
